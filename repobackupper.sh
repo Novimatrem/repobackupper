@@ -70,6 +70,12 @@ git clone https://gitlab.com/Novimatrem/dvorak-qwerty-switch-keybind
 git clone https://gitlab.com/Novimatrem/dvorak-qwerty-switch-aliases
 git clone https://gitlab.com/Novimatrem/ytdlmp3-command
 git clone https://gitlab.com/Novimatrem/look-at-my-snippets-please
+git clone https://gitlab.com/Novimatrem/my-awesomewm-mods
+git clone https://gitlab.com/Novimatrem/zrepos
+git clone https://gitlab.com/Novimatrem/znippets
+git clone https://gitlab.com/Novimatrem/multicommittr.sh
+git clone https://gitlab.com/Novimatrem/repobackupper
+
 
 pwd
 ls
